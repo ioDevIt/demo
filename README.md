@@ -6,4 +6,8 @@ More Text
 
 Will cause trouble
 
+<<<<<<< Updated upstream
 New
+=======
+Another change
+>>>>>>> Stashed changes
